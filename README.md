@@ -1,5 +1,6 @@
 # privacypolicy
 PRIVACY POLICY
+
 This privacy policy aims to explain how users use their personal information when using TeenPatti Club games or services. We research to protect the privacy of users. We will never disclose or otherwise pass the user's private information to the user's personal information. In addition to the services provided to users, users and users also agree.What We Collect.
 
 The information and data collected by this application about you will be stored on the servers of this and (or) its affiliates, and this information and data may be transmitted to the country, region or application in this information and data center where you collected it. Visited, stored and displayed outside the country.
